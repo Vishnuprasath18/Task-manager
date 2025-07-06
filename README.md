@@ -20,7 +20,7 @@
 
 ## 🧱 Architecture Diagram
 
-![Architecture Diagram](./public/architecture-diagram.svg)
+![Architecture Diagram](taskManager.drawio.png)
 
 ---
 
